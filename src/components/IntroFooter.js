@@ -37,7 +37,7 @@ function IntroFooter() {
                     <p>In ideal scenarios, it should take about 8 hours for you wrap up the task, </p>
                     <p>but hey you can take your time but please make sure the deliverables are </p>
                     <p> ready within max of 3 days :)</p>
-                    <p>Hope we have covered it all, any queries please send it to <a href="#">hr@squashapps.com</a></p>
+                    <p>Hope we have covered it all, any queries please send it to <a href="/">hr@squashapps.com</a></p>
                     <p>Looking forward to see some cool stuff from you. Wishing you all the best </p>
                     <p>and Happy Coding!!!</p>
                     <br></br>
