@@ -1,10 +1,9 @@
 import React from 'react'
 import "./Intro.css"
-import { BrowserRouter as Router, Link,Route} from 'react-router-dom';
+import { BrowserRouter as Router, Link} from 'react-router-dom';
 import IntroBody from './IntroBody';
 import IntroFooter from './IntroFooter';
-import Notionimg from './Notionimg';
-import Grid from './Grid'
+
 
 
 function Intro() {
